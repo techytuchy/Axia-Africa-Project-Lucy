@@ -8,7 +8,6 @@ function ForgotPassword() {
   function handleReset(e) {
     e.preventDefault();
 
-    // simulate success
     setMessage("Password reset link has been sent to your email.");
   }
 
@@ -33,21 +32,19 @@ function ForgotPassword() {
 
           <button
             type="submit"
-            className="w-full bg-blue-600 text-white py-2 rounded-lg hover:bg-blue-700 transition"
+            className="w-full bg-purple-600 text-white py-2 rounded-lg hover:bg-purple-700 transition"
           >
             Reset Password
           </button>
         </form>
 
-        {/* Success Message */}
         {message && (
           <p className="text-green-600 text-sm mt-4 text-center">{message}</p>
         )}
 
-        {/* Back to login */}
         <p className="text-center text-sm mt-6">
           Remember your password?{" "}
-          <Link to="/login" className="text-blue-600 hover:underline">
+          <Link to="/login" className="text-purple-600 hover:underline">
             Login
           </Link>
         </p>
