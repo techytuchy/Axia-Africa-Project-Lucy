@@ -1,4 +1,4 @@
-#Lucy Ogbejesi Axia Africa Frontend Development Course Final Project
+#Lucy_Ogbejesi_Axia_Africa_Frontend_Development_Course_Final_Project
 
 In this project, I practice and strengthened my use of React and Tailwind CSS to build a cleand and responsive-friendly online product store. 
 
