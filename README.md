@@ -1,16 +1,8 @@
-# React + Vite
+#Lucy Ogbejesi Axia Africa Frontend Development Course Final Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In this project, I practice and strengthened my use of React and Tailwind CSS to build a cleand and responsive-friendly online product store. 
 
-Currently, two official plugins are available:
+I created various pages including a Landing page, a Dashboard, and authentication pages.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+I used the Router and BrowserRouters to link the components of my page to have a seamless experience on the website.
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
